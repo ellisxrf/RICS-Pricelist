@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Twitch Toolkit",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }
