@@ -20039,6 +20039,66 @@
       "Category": "Furniture",
       "Enabled": true,
       "modactive": true
+    },
+    "VomitRain_SkyChalice": {
+      "DefName": "VomitRain_SkyChalice",
+      "CustomName": "Sky chalice",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vomit Rain",
+      "BasePrice": 111,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "WCE2_OrganModificationKit": {
+      "DefName": "WCE2_OrganModificationKit",
+      "CustomName": "Organ modification kit",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 25,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "War Crimes Expanded 2 Core (Updated)",
+      "BasePrice": 15,
+      "Category": "Torture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "WCE2_NeutroamineIncubator": {
+      "DefName": "WCE2_NeutroamineIncubator",
+      "CustomName": "Neutroamine incubator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 5,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "War Crimes Expanded 2 Core (Updated)",
+      "BasePrice": 200,
+      "Category": "Torture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "WCE2_GrowthStimulator": {
+      "DefName": "WCE2_GrowthStimulator",
+      "CustomName": "Growth stimulator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 5,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "War Crimes Expanded 2 Core (Updated)",
+      "BasePrice": 50,
+      "Category": "Torture",
+      "Enabled": true,
+      "modactive": true
     }
   }
 }

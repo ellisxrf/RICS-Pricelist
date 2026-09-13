@@ -1,0 +1,32 @@
+{
+  "total": 3,
+  "viewers": [
+    {
+      "username": "ellisxrf_",
+      "karma": 167.12178,
+      "coins": 109591,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "502235414"
+      }
+    },
+    {
+      "username": "ellisxrf_bot",
+      "karma": 100.0,
+      "coins": 710,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1507424640"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100.0,
+      "coins": 530,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    }
+  ]
+}

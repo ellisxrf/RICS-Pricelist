@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-06T21:02:51.7356838Z",
-  "totalActiveMods": 84,
+  "exportedAt": "2026-09-07T22:15:27.9878290Z",
+  "totalActiveMods": 87,
   "mods": [
     {
       "author": "Captolamia",
@@ -486,6 +486,24 @@
       "author": "Oskar Potocki",
       "name": "Vanilla Weapons Expanded - Non-Lethal",
       "steamId": "2454918354",
+      "version": null
+    },
+    {
+      "author": "kingmoo92",
+      "name": "Vomit Rain",
+      "steamId": "3797683474",
+      "version": "1.0.0"
+    },
+    {
+      "author": "Crustypeanut,  Mersid",
+      "name": "War Crimes Expanded 2 Core (Updated)",
+      "steamId": "3032870787",
+      "version": null
+    },
+    {
+      "author": "Charlie",
+      "name": "War Crimes Patch",
+      "steamId": "3790118801",
       "version": null
     },
     {
