@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-07T22:15:27.9878290Z",
-  "totalActiveMods": 87,
+  "exportedAt": "2026-09-14T11:43:25.9600358Z",
+  "totalActiveMods": 102,
   "mods": [
     {
       "author": "Captolamia",
@@ -12,13 +12,13 @@
       "author": "Captolamia",
       "name": "[CAP] RICS Storyteller",
       "steamId": "3794174734",
-      "version": null
+      "version": "1.1.0"
     },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": null
+      "version": "1.49.0"
     },
     {
       "author": "FrozenSnowFox",
@@ -123,6 +123,12 @@
       "version": "3.4.7.0"
     },
     {
+      "author": "void",
+      "name": "Character Editor",
+      "steamId": "1874644848",
+      "version": "1.6.1"
+    },
+    {
       "author": "CrashM",
       "name": "CM Color Coded Mood Bar [1.1+]",
       "steamId": "2006605356",
@@ -160,6 +166,12 @@
     },
     {
       "author": "Dubwise",
+      "name": "Dubs Bad Hygiene",
+      "steamId": "836308268",
+      "version": "3.1.2800"
+    },
+    {
+      "author": "Dubwise",
       "name": "Dubs Mint Menus",
       "steamId": "1446523594",
       "version": "1.3.1247"
@@ -189,6 +201,12 @@
       "version": null
     },
     {
+      "author": "Roolo,  Owlchemist,  dav9670,  Meme Goddess",
+      "name": "Giddy-Up 2 - Continued",
+      "steamId": "3674332861",
+      "version": "2.2.5"
+    },
+    {
       "author": "Telefonmast",
       "name": "Graphics Settings+",
       "steamId": "1678847247",
@@ -210,6 +228,12 @@
       "author": "UnlimitedHugs",
       "name": "HugsLib",
       "steamId": "818773962",
+      "version": null
+    },
+    {
+      "author": "erdelf",
+      "name": "Humanoid Alien Races",
+      "steamId": "839005762",
       "version": null
     },
     {
@@ -243,6 +267,12 @@
       "version": null
     },
     {
+      "author": "Little White Mouse",
+      "name": "LWM's Deep Storage",
+      "steamId": "3532608331",
+      "version": null
+    },
+    {
       "author": "m00nl1ght",
       "name": "Map Preview",
       "steamId": "2800857642",
@@ -261,9 +291,27 @@
       "version": "1.6.6"
     },
     {
+      "author": "Issac Zhuang",
+      "name": "Muzzle Flash",
+      "steamId": "2917732219",
+      "version": null
+    },
+    {
       "author": "Andromeda",
       "name": "Nice Bill Tab",
       "steamId": "3520130671",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Plants Menu",
+      "steamId": "3685058533",
+      "version": null
+    },
+    {
+      "author": "Vesper",
+      "name": "Not My Fault",
+      "steamId": "2870045856",
       "version": null
     },
     {
@@ -279,10 +327,28 @@
       "version": null
     },
     {
+      "author": "DawnsGlow",
+      "name": "Quality Colors (Continued)",
+      "steamId": "3513846773",
+      "version": null
+    },
+    {
       "author": "Lucifer",
       "name": "Realistic Rooms Rewritten",
       "steamId": "2558042766",
       "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Replace Stuff - Continued",
+      "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "Vendan, Kiame Vivacity, \"Just Harry\"",
+      "name": "RimFridge: Now with Shelves!",
+      "steamId": "2898411376",
+      "version": "2.0.7"
     },
     {
       "author": "Jaxe",
@@ -330,6 +396,18 @@
       "author": "dhultgren",
       "name": "Smarter Construction",
       "steamId": "2202185773",
+      "version": null
+    },
+    {
+      "author": "legodude17",
+      "name": "Smarter Deconstruction and Mining (Continued)",
+      "steamId": "3261302741",
+      "version": "1.6.1"
+    },
+    {
+      "author": "Hayneken",
+      "name": "Suffering Expanded",
+      "steamId": "3793056584",
       "version": null
     },
     {
@@ -393,6 +471,12 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Fishing Expanded",
+      "steamId": "1914064942",
+      "version": null
+    },
+    {
       "author": "OskarPotocki,  Atlas,  Kikohi,  Sarg,  Sokyran",
       "name": "Vanilla Furniture Expanded",
       "steamId": "1718190143",
@@ -408,6 +492,12 @@
       "author": "OskarPotocki,  Atlas,  Kikohi",
       "name": "Vanilla Furniture Expanded - Medical Module",
       "steamId": "1718191613",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Furniture Expanded - Power",
+      "steamId": "2062943477",
       "version": null
     },
     {
@@ -438,6 +528,12 @@
       "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
       "name": "Vanilla Plants Expanded",
       "steamId": "2134308522",
+      "version": null
+    },
+    {
+      "author": "legodude17,  Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Skills Expanded",
+      "steamId": "3400246558",
       "version": null
     },
     {
@@ -492,18 +588,12 @@
       "author": "kingmoo92",
       "name": "Vomit Rain",
       "steamId": "3797683474",
-      "version": "1.0.0"
+      "version": "2.1.5"
     },
     {
       "author": "Crustypeanut,  Mersid",
       "name": "War Crimes Expanded 2 Core (Updated)",
       "steamId": "3032870787",
-      "version": null
-    },
-    {
-      "author": "Charlie",
-      "name": "War Crimes Patch",
-      "steamId": "3790118801",
       "version": null
     },
     {
