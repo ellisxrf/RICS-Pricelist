@@ -3,8 +3,8 @@
   "viewers": [
     {
       "username": "ellisxrf_",
-      "karma": 167.12178,
-      "coins": 109790,
+      "karma": 169.12178,
+      "coins": 110858,
       "isBanned": false,
       "platformIds": {
         "twitch": "502235414"
@@ -13,7 +13,7 @@
     {
       "username": "ellisxrf_bot",
       "karma": 100.0,
-      "coins": 830,
+      "coins": 1430,
       "isBanned": false,
       "platformIds": {
         "twitch": "1507424640"
@@ -22,7 +22,7 @@
     {
       "username": "streamelements",
       "karma": 100.0,
-      "coins": 650,
+      "coins": 1250,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
