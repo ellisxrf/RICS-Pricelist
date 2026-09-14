@@ -142,5 +142,41 @@
     "ModSource": "Vomit Rain",
     "modactive": true,
     "Version": 1
+  },
+  "VomitRain_Weather_Chunky": {
+    "DefName": "VomitRain_Weather_Chunky",
+    "Label": "chunky rain",
+    "Description": "A dense, heavy, chunk-laden rain, falling harder and pooling faster than ordinary vomit rain. It slightly slows movement, reduces ranged accuracy and puts out fires, exactly like normal rain, except that nobody wants to be outside in it.",
+    "BaseCost": 600,
+    "KarmaType": "Good",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vomit Rain",
+    "modactive": true,
+    "Version": 1
+  },
+  "VomitRain_Weather_Drizzle": {
+    "DefName": "VomitRain_Weather_Drizzle",
+    "Label": "bile drizzle",
+    "Description": "A thin, warm, faintly green drizzle. It barely slows anyone down and barely reduces accuracy, but it goes on and on.",
+    "BaseCost": 200,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vomit Rain",
+    "modactive": true,
+    "Version": 1
+  },
+  "VomitRain_Weather_Hail": {
+    "DefName": "VomitRain_Weather_Hail",
+    "Label": "vomit hail",
+    "Description": "Chunks of dried bile crust hailing out of a sick, sallow sky. It hits harder than ordinary vomit rain and reduces accuracy more, but it burns itself out fast.",
+    "BaseCost": 600,
+    "KarmaType": "Good",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vomit Rain",
+    "modactive": true,
+    "Version": 1
   }
 }
